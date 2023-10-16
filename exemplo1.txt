@@ -1,0 +1,5 @@
+algoritmo exemplo1;
+ variavel maior:inteiro;
+inicio
+ escreva(maior);
+fim.
